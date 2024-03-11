@@ -1,0 +1,5 @@
+aws_ami = "ami-03bb6d83c60fc5f7c"
+instance_type = "t2.micro"
+aws_key_pair = "terraform-key-vinu"
+cidr = "10.0.0.0/16"
+availability_zone = "ap-south-1a"
